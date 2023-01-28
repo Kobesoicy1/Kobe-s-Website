@@ -85,8 +85,8 @@
       <h3>Education</h3>
       <ul>
         <li>Morgan State University(2019-2020)</li>
-          <u1>Computer Science</u1>
-          
+        <li>Computer Science</li>
+         
         <li>Community College of Baltiomre County(2018-2019)</li>
           <u1>Information Technology</u1>
       </ul>
