@@ -61,23 +61,24 @@
       <h3 align=" center">Resume</h3>
       <h1 align=" center">Kobe Thomas</h1>
       <h4 align=" right">Contact Information</h4>
-      <h6 align=" right">Email: your.email@example.com</h6>
-      <h6 align=" right">Phone: 555-555-5555</h6>
+      <h6 align=" right">Email: kobesoicy1@yahoo.com</h6>
+      <h6 align=" right">Phone: 410-905-3864</h6>
     </header>
 
     <section>
       <h3 align=" center">Professional Summary</h3>
       <p align=" center">
-        A brief summary of your professional experience and qualifications.
+        Business professional with experience across multiple industries and functions, spanning customer service, marketing, sales, and most recently, software engineering. Extensive experience with PVP, website HTML design, and coding. Acquired recent deep-dive training with SQL, Python, and JavaScript.  Renowned for excelling as a strong technical contributor, gaining the trust and confidence of prospective clients’ technical decision-makers. Skilled at collaborating cross-functionally to enhance offerings. Self-driven, strongly motivated with a keen perception of finding the right technical solution for any business context.
       </p>
     </section>
 
     <section>
-      <h3>Skills</h3>
+      <h3>Core Skills</h3>
       <ul>
-        <li>Skill 1</li>
-        <li>Skill 2</li>
-        <li>Skill 3</li>
+        <li>Creative Problem Solving</li>
+        <li>Excel</li> <li>JavaScript<li>
+        <li>HTML</li> 
+       
       </ul>
     </section>
 
