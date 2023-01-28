@@ -1,5 +1,4 @@
-Kobesoicy
- <!DOCTYPE html>
+
 <html>
   <head>
     <title>Kobe Thomas Resume</title>
