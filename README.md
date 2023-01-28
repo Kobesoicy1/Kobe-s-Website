@@ -1,2 +1,109 @@
-# Kobe's Website
- resume
+ Kobe's Website
+ <!DOCTYPE html>
+<html>
+  <head>
+    <title>Kobe Thomas Resume</title>
+    <style>
+      /* CSS styles go here */
+      /* General styles */
+      body {
+        background-color: darkgoldenrod;
+        font-family: "Times New Roman", Times, serif, sans-serif;
+        margin: 0;
+        padding: 0;
+      }
+
+      /* Header styles */
+      header {
+        background-color: azure;
+        color: rgb(19, 1, 1);
+        padding: 1px;
+      }
+
+      /* Name and title styles */
+      h1 {
+        margin: 0;
+        font-size: 36px;
+      }
+
+      h2 {
+        margin: 0;
+        font-size: 24px;
+        font-weight: normal;
+      }
+
+      /* Section styles */
+      section {
+        padding: 20px;
+      }
+
+      /* Section title styles */
+      h3 {
+        font-size: 24px;
+        margin-bottom: 10px;
+      }
+
+      /* List styles */
+      ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+      }
+
+      li {
+        margin-bottom: 10px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <header>
+      <h3 align=" center">Resume</h3>
+      <h1 align=" center">Kobe Thomas</h1>
+      <h4 align=" right">Contact Information</h4>
+      <h6 align=" right">Email: your.email@example.com</h6>
+      <h6 align=" right">Phone: 555-555-5555</h6>
+    </header>
+
+    <section>
+      <h3 align=" center">Professional Summary</h3>
+      <p align=" center">
+        A brief summary of your professional experience and qualifications.
+      </p>
+    </section>
+
+    <section>
+      <h3>Skills</h3>
+      <ul>
+        <li>Skill 1</li>
+        <li>Skill 2</li>
+        <li>Skill 3</li>
+      </ul>
+    </section>
+
+    <section>
+      <h3>Education</h3>
+      <ul>
+        <li>Degree from University (Year)</li>
+        <li>Certificate from College (Year)</li>
+      </ul>
+    </section>
+
+    <section>
+      <h3>Experience</h3>
+      <ul>
+        <li>Company Name - Job Title (Dates of Employment)</li>
+        <li>Company Name - Job Title (Dates of Employment)</li>
+      </ul>
+    </section>
+
+    <section>
+      <h3>Other Information</h3>
+      <ul>
+        <li>Information 1</li>
+        <li>Information 2</li>
+      </ul>
+    </section>
+  </body>
+</html>
+
