@@ -75,9 +75,10 @@
     <section>
       <h3>Core Skills</h3>
       <ul>
-        <li>Creative Problem Solving</li>
-        <li>Excel</li> <li>JavaScript<li>
-        <li>HTML</li> 
+        <li>Creative Problem Solving</li> <li>JavaScript</li>
+        <li>Excel</li> <li>JavaScript</li> <li>python</li>
+        <li>HTML</li> <li>Customer Service</li> <li>Sales</li>
+        <li>Active Directory</li> <li>Salesforce</li>
        
       </ul>
     </section>
@@ -85,8 +86,10 @@
     <section>
       <h3>Education</h3>
       <ul>
-        <li>Degree from University (Year)</li>
-        <li>Certificate from College (Year)</li>
+        <li>Morgan State University(2019-2020)</li>
+          <u1>Computer Science</u1>
+        <li>Community College of Baltiomre County(2018-2019)</li>
+          <u1>Information Technology</u1>
       </ul>
     </section>
 
