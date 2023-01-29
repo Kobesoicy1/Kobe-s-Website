@@ -85,16 +85,15 @@
       <h3>Education</h3>
       <ul>
         <li>Morgan State University(2019-2020)</li>
+      </u1>
         <b>Computer Science</b>
-
-      
       <u1>
-        <li>Community College of Baltiomre County(2018-2019)</li>
+        <li>Community College of Baltimore County(2018-2019)</li>
       </u1>
         <b>Information Technology</b>
    </section>
 
-   <section
+   <section>
       <h3>Experience</h3>
       <ul>
         <li>Storyblocks - Sales Development Represenitve (May - December 2022)</li>
