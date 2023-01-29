@@ -63,14 +63,14 @@
       <h6 align=" right">Phone: 410-905-3864</h6>
     </header>
 
-    <section>
+    
       <h3 align=" center">Professional Summary</h3>
       <p align=" center">
         Business professional with experience across multiple industries and functions, spanning customer service, marketing, sales, and most recently, software engineering. Extensive experience with PVP, website HTML design, and coding. Acquired recent deep-dive training with SQL, Python, and JavaScript.  Renowned for excelling as a strong technical contributor, gaining the trust and confidence of prospective clients’ technical decision-makers. Skilled at collaborating cross-functionally to enhance offerings. Self-driven, strongly motivated with a keen perception of finding the right technical solution for any business context.
       </p>
-    </section>
+    
 
-    <section>
+    
       <h3>Core Skills</h3>
       <ul>
         <li>Creative Problem Solving</li> <li>JavaScript</li>
@@ -79,21 +79,22 @@
         <li>Active Directory</li> <li>Salesforce</li>
        
       </ul>
-    </section>
+
 
       <h3>Education</h3>
       <ul>
         <li>Morgan State University(2019-2020)</li>
-      </u1>
+      
         <b>Computer Science</b>
-        
+      </u1>
+      
       <u1>
         <li>Community College of Baltiomre County(2018-2019)</li>
       </u1>
         <b>Information Technology</b>
    
 
-    <section>
+  
       <h3>Experience</h3>
       <ul>
         <li>Storyblocks - Sales Development Represenitve (May - December 2022)</li>
@@ -102,7 +103,6 @@
         <li>Heritage Volkswagen - Lot Attendent (Dec 2018 - Oct 2019)</li>
         
       </ul>
-    </section>
   </body>
 </html>
 
