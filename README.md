@@ -83,8 +83,10 @@
       <ul>
         <li>Morgan State University(2019-2020)</li>
         <b>Computer Science</b>
-      <u1>
       </u1>
+      <u1>
+      /<u1>
+      <u1>
         <li>Community College of Baltimore County(2018-2019)</li>
         <b>Information Technology</b>
       </ul>
