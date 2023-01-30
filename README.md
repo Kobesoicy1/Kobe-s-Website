@@ -56,7 +56,6 @@
 
   <body>
     <header>
-      <h3 align=" center">Resume</h3>
       <h1 align=" center">Kobe Thomas</h1>
       <h4 align=" right">Contact Information</h4>
       <h6 align=" right">Email: kobesoicy1@yahoo.com</h6>
