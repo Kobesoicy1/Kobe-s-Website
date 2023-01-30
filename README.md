@@ -85,23 +85,19 @@
       <h3>Education</h3>
       <ul>
         <li>Morgan State University(2019-2020)</li>
-      </u1>
-        <b>Computer Science</b>
-      <u1>
+        <li>Computer Science</li>
         <li>Community College of Baltimore County(2018-2019)</li>
-      </u1>
-        <b>Information Technology</b>
+        <li>Information Technology</li>
+      </ul>
    </section>
 
-   <section>
       <h3>Experience</h3>
       <ul>
         <li>Storyblocks - Sales Development Represenitve (May - December 2022)</li>
         <li>Amazon - TOM team liaison/Team Lead (Jan 2020 - Jan 2022)</li>
         <li>Southern National Roofing - Marketing Representive (July - Jan 2021)</li>
         <li>Heritage Volkswagen - Lot Attendent (Dec 2018 - Oct 2019)</li>  
-      </ul>
-   </section>  
+      </ul>  
   </body>
 </html>
 
