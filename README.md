@@ -69,7 +69,6 @@
         Business professional with experience across multiple industries and functions, spanning customer service, marketing, sales, and most recently, software engineering. Extensive experience with PVP, website HTML design, and coding. Acquired recent deep-dive training with SQL, Python, and JavaScript.  Renowned for excelling as a strong technical contributor, gaining the trust and confidence of prospective clients’ technical decision-makers. Skilled at collaborating cross-functionally to enhance offerings. Self-driven, strongly motivated with a keen perception of finding the right technical solution for any business context.
       </p>
     
-    <section>
     
       <h3>Core Skills</h3>
       <ul>
@@ -78,18 +77,17 @@
         <li>HTML</li> <li>Customer Service</li> <li>Sales</li>
         <li>Active Directory</li> <li>Salesforce</li>
        
-      </ul>
-    </section> 
-    <section>
+      </ul> 
 
       <h3>Education</h3>
       <ul>
         <li>Morgan State University(2019-2020)</li>
         <li>Computer Science</li>
+        <b>Computer Science</b>
         <li>Community College of Baltimore County(2018-2019)</li>
         <li>Information Technology</li>
+        <b>Information Technology</b>
       </ul>
-   </section>
 
       <h3>Experience</h3>
       <ul>
