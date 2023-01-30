@@ -73,7 +73,7 @@
       <h3>Core Skills</h3>
       <ul>
         <li>Creative Problem Solving</li> <li>JavaScript</li>
-        <li>Excel</li> <li>JavaScript</li> <li>python</li>
+        <li>Excel</li> <li>JavaScript</li> <li>Python</li> <li>Windows 10</li>
         <li>HTML</li> <li>Customer Service</li> <li>Sales</li>
         <li>Active Directory</li> <li>Salesforce</li>
        
