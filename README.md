@@ -90,9 +90,9 @@
 
       <h3>Experience</h3>
       <ul>
-        <li>Storyblocks - Sales Development Represenitve (May - December 2022)</li>
+        <li>Storyblocks - Sales Development Representative (May - December 2022)</li>
         <li>Amazon - TOM team liaison/Team Lead (Jan 2020 - Jan 2022)</li>
-        <li>Southern National Roofing - Marketing Representive (July - Jan 2021)</li>
+        <li>Southern National Roofing - Marketing Representative (July - Jan 2021)</li>
         <li>Heritage Volkswagen - Lot Attendent (Dec 2018 - Oct 2019)</li>  
       </ul>  
   </body>
