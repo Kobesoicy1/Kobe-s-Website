@@ -65,7 +65,7 @@
     
       <h3 align=" center">Professional Summary</h3>
       <p align=" center">
-        Business professional with experience across multiple industries and functions, spanning customer service, marketing, sales, and most recently, software engineering. Extensive experience with PVP, website HTML design, and coding. Acquired recent deep-dive training with SQL, Python, and JavaScript.  Renowned for excelling as a strong technical contributor, gaining the trust and confidence of prospective clients’ technical decision-makers. Skilled at collaborating cross-functionally to enhance offerings. Self-driven, strongly motivated with a keen perception of finding the right technical solution for any business context.
+        Business professional with experience across multiple industries and functions, spanning customer service, marketing, sales, and software engineering. Extensive experience with website HTML design, and coding. Acquired recent deep-dive training with SQL, Python, and JavaScript.  Renowned for excelling as a strong technical contributor, gaining the trust and confidence of prospective clients’ technical decision-makers. Skilled at collaborating cross-functionally to enhance offerings. Self-driven, strongly motivated with a keen perception of finding the right technical solution for any business context.
       </p>
     
     
